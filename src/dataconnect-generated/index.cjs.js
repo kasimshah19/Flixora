@@ -2,7 +2,7 @@ const { queryRef, executeQuery, validateArgsWithOptions, mutationRef, executeMut
 
 const connectorConfig = {
   connector: 'example',
-  service: 'netflix-gpt',
+  service: 'flixora',
   location: 'us-east4'
 };
 exports.connectorConfig = connectorConfig;

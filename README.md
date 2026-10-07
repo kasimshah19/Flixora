@@ -1,4 +1,4 @@
-# Netflix-GPT
+# Flixora
 
 -create-react-app
 -configured Tailwind/Css
@@ -14,6 +14,6 @@
      -Title & Description
      -Movie Suggestions
        -Movie List
--Netflix-GPT
+-Flixora
   -search Bar
   -Movie Suggestions
